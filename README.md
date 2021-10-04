@@ -1,2 +1,3 @@
 # HardcoreCore
-kurtz
+
+Plugin z emerald-crafta trybu HardCore
