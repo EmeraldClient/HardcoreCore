@@ -1,0 +1,12 @@
+main: pl.emeraldcraft.RP.main.Main
+name: EmeraldRPcore
+version: 1.0
+author: marchewaaa
+
+commands:
+  chat:
+  gm:
+  broadcast:
+  RP:
+  ogl:
+  lotto:

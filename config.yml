@@ -1,0 +1,11 @@
+#Config section
+#----------AUTOMESSAGE CONFIG----------
+#Time: time in seconds
+time: 20 
+#Prefix: Name of your server
+prefix: '&8[&fYour&dServer&8]'
+#Messages
+Messages:
+  - '&7This message can be edit in config.yml'
+  - '&7you are using BetterSpawn This message can be edit in config.yml'
+  - '&7Third message!'
